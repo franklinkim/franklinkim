@@ -5,6 +5,12 @@
 
 ---
 
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/kfranklinkim)
+[![Xing](https://img.shields.io/badge/Xing-C6F16D?style=flat-square&logo=xing&logoColor=black)](https://www.xing.com/profile/KevinFranklin_Kim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinfranklinkim/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@franklinkim)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)]([https://](https://github.com/franklinkim))
+
 #### Shipping software since 2006 from top to bottom
 
 - **Products**: built end to end, from interface and services to the infrastructure they run on.
@@ -18,4 +24,4 @@
 
 ---
 
-[franklinkim.de](https://franklinkim.de) · [LinkedIn](https://www.linkedin.com/in/kevinfranklinkim/) · [XING](https://www.xing.com/profile/KevinFranklin_Kim) · [X](https://x.com/kfranklinkim)
+[![Hits](https://hitcount.dev/p/franklinkim/franklinkim.svg?label=Hits)](https://hitcount.dev/p/franklinkim/franklinkim)
